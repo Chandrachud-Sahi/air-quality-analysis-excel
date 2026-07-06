@@ -10,7 +10,13 @@ This project documents a complete data analysis pipeline applied to a 10,220-row
 
 Using a workflow built around a consistent three-part procedure — quality assessment via column-by-column audit, feature engineering to unlock deeper analysis, and exploratory analysis via PivotTables and PivotCharts — every column was confirmed to be under 1% missing and retained in full, seven new analytical features were added, and pollution trends were identified across cities, seasons, months, and weekday/weekend splits.
 
-The findings are presented through a single-page professional Excel dashboard, and are ready to support pollution monitoring, seasonal planning, and city-level policy prioritization use cases, once the known limitations (below) are accounted for.
+The findings are presented through a single-page professional Excel dashboard and are ready to support pollution monitoring, seasonal planning, and city-level policy prioritization use cases, once the known limitations (below) are accounted for.
+
+<img width="1261" height="597" alt="ScreenShot Tool -20260706142856" src="https://github.com/user-attachments/assets/4c3af0c4-ec65-4d5e-9667-c0613b0b47eb" />
+
+<img width="1793" height="576" alt="ScreenShot Tool -20260706143005" src="https://github.com/user-attachments/assets/37c774d0-8ba0-4aee-abdf-84db5930afe7" />
+
+<img width="1536" height="615" alt="ScreenShot Tool -20260706143123" src="https://github.com/user-attachments/assets/9543a465-8c9a-498b-b791-f2bbb2d68c93" />
 
 ---
 
